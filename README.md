@@ -203,7 +203,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - CARLA team for the autonomous driving simulator and dataset
 - PyTorch and Ultralytics teams for excellent deep learning frameworks
 - Course supervisor for guidance and support
-
----
-
-If you found this project helpful, please consider giving it a star!
