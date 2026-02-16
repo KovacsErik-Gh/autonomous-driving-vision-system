@@ -123,12 +123,12 @@ jupyter notebook notebooks/cruise_control.ipynb
 # See notebook for full implementation
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 adaptive-cruise-control-vision/
 ├── README.md
-├── requirements.txt
+├── requirements
 ├── notebooks/
 │   └── cruise_control.ipynb       # Main implementation
 ├── models/
