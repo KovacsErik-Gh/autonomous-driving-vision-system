@@ -101,7 +101,7 @@ git clone https://github.com/KovacsErik-Gh/adaptive-cruise-control-vision.git
 cd adaptive-cruise-control-vision
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r 
 ```
 
 ### Usage
